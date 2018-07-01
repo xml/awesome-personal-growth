@@ -12,21 +12,25 @@
 
 *For now, this list is mostly email newsletters, which seem the preferred tool of today's great curators. But, accept exceptions. Also, you can generally read the same content from these newsletters on their websites or other feeds.*
  
- 
-## The Goods, Alphabetically (until we can randomize)
+<!--- Eventually, add a "Contents" list, but for now, it's all above-the-fold -->
+
+## Email Newsletters & The Written Word
 - [Better Humans](https://betterhumans.coach.me/) -- "Trustworthy writing on human potential and self improvement"
 - [Evolutionaries](https://evolution2.co/evolutionaries) -- "The Habit Forming Practices of Highly Successful People"
 - [Farnam Street](https://fs.blog/) -- "Mastering The Best Of What Other People Have Already Figured Out"
 - [For the Interested](http://fortheinterested.com/start/) -- "Ideas to help you learn, do and become." ... "actionable ideas to help you become better at your work, art, and life"
-- [Further]() -- "Further is a once-a-week email that helps you maximize your health, wealth, and personal growth."
+- [Further](https://further.net/) -- "Further is a once-a-week email that helps you maximize your health, wealth, and personal growth."
 - [James Clear](https://jamesclear.com/) -- "The most important concepts for building better habits and mastering the routines that shape our life and work."
 - [Jocelyn K. Glei](http://jkglei.com/articles/) -- "Notes on work, life and creativity in the Age of Distraction"
 - [Weekend Briefing](https://weekendbriefing.com/) -- "A Saturday morning briefing on innovation & society."
 
+## Podcasts
+- [Hurry Slowly](http://hurryslowly.co/) -- "Hurry Slowly is a podcast about how you can be more productive, creative, and resilient through the simple act of slowing down." (by Jocelyn K. Glei)
+
 ## With Special Focus on Technology & Innovation
 - [Future Crunch](https://futurecrun.ch/subscribe) -- "Science. Technology. Intelligent Optimism"
 
-## Related Awesome Lists
+## Related 'Awesome' Lists
 - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)
 
 
