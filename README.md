@@ -1,10 +1,17 @@
 # Awesome Personal Growth: A List of Resources for Maximizing Your Personal Human Capital
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center">
+<a href="CONTRIBUTING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ Inspired by the <a href="https://github.com/sindresorhus/awesome">awesome</a> list thing. <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>
+</p>
+
+<br>
 
 *There's only so much time in the day. Invest your reading time in people who are curating the best available stuff packed with ideas, optimism & ways to improve.*
 
 *For now, this list is mostly email newsletters, which seem the preferred tool of today's great curators. But, accept exceptions. Also, you can generally read the same content from these newsletters on their websites or other feeds.*
+ 
  
 ## The Goods, Alphabetically (until we can randomize)
 * [Better Humans](https://betterhumans.coach.me/) -- "Trustworthy writing on human potential and self improvement"
