@@ -1,4 +1,4 @@
-# Awesome Personal Growth: A List of Resources for Maximizing Your Personal Human Capital
+# Awesome Personal Growth: <br>Resources for Maximizing Your Personal Human Capital
 
 <p align="center">
 <a href="CONTRIBUTING.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
