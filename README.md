@@ -21,3 +21,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. [
 
 ## Related Awesome Lists
 * [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Christian Lilley](https://christianlilley.com) has waived all copyright and related or neighboring rights to this work.
