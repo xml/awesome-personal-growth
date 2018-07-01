@@ -1,4 +1,4 @@
-# awesome-ideas-for-life: A List of People and Teams Trying to Help us Be Smarter and Better
+# Awesome Personal Growth: A List of Resources for Maximizing Your Personal Human Capital
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
